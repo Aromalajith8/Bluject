@@ -64,6 +64,6 @@ Once connected, you can use the web interface to interact with the target using 
 ---
 
 ## ⚠️ Legal Disclaimer
-**STRICTLY FOR EDUCATIONAL AND ETHICAL HACKING PURPOSES ONLY.** Bluject was developed to demonstrate the vulnerabilities of trust-based BLE pairings and the impact of rapid HID payload execution. The developer (Aro Mal) assumes absolutely no liability and is not responsible for any misuse, damage, or unauthorized access caused by this program. 
+**STRICTLY FOR EDUCATIONAL AND ETHICAL HACKING PURPOSES ONLY.** Bluject was developed to demonstrate the vulnerabilities of trust-based BLE pairings and the impact of rapid HID payload execution. The developer (aromalajith) assumes absolutely no liability and is not responsible for any misuse, damage, or unauthorized access caused by this program. 
 
 You are required to comply with all local, state, and federal laws. **DO NOT** use this tool on any systems, networks, or devices that you do not personally own or have explicit, documented permission to audit.
