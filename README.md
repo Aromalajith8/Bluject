@@ -15,7 +15,7 @@ Bluject is a custom-built, wireless keystroke injection tool designed for the ES
 ## Interface
 
 <p align="center">
-  <img src="interface.jpeg" alt="Bluject interface" width="100"/>
+  <img src="interface.jpeg" alt="Bluject interface" width="200"/>
 </p>
 
 ---
