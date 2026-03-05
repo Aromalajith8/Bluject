@@ -12,7 +12,13 @@ Turn an ESP32 into a stealthy, multi-OS keystroke injector. Bluject creates a lo
 Bluject is a custom-built, wireless keystroke injection tool designed for the ESP32 microarchitecture. It acts as a rogue Bluetooth Low Energy (BLE) Human Interface Device (HID), allowing users to execute rapid, cross-platform payloads via a localized WiFi Captive Portal. 
 
 ---
+## Interface
 
+<p align="center">
+  <img src="interface.jpg" alt="Bluject interface" width="100"/>
+</p>
+
+---
 ## 📡 Default Network Credentials
 When Bluject is powered on, it broadcasts a localized, air-gapped WiFi network. You must connect to this network from your smartphone or computer to access the control dashboard.
 
